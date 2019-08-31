@@ -1,0 +1,13 @@
+C:\Users\licSistemas\Desktop\practicas\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\licSistemas\Desktop\practicas\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\licSistemas\Desktop\practicas\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\licSistemas\Desktop\practicas\Practica3\Practica3\obj\Debug\Practica3.csprojResolveAssemblyReference.cache
+C:\Users\licSistemas\Desktop\practicas\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\licSistemas\Desktop\practicas\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\nesto\OneDrive\Escritorio\practicas\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\Practica3\Practica3\obj\Debug\Practica3.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\Practica3\Practica3\obj\Debug\Practica3.pdb
